@@ -96,7 +96,7 @@ footer {
     margin: 0;
     padding: 0;
     transition: .5s;
-    color: #1da04d;
+    color: #193323;
 }
 
 .btn svg {
@@ -121,7 +121,7 @@ footer {
 }
 
 .btn:hover {
-    background-color: #25D366;
+    background-color: #0b3018;
 }
 
 .button {
